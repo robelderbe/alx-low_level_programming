@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * main:Run main function
+ * main:prints the size of varios types
  *
- *Description: prints the size of varios types
  * Return: 0 if exited properly
  */
 int main(void)
