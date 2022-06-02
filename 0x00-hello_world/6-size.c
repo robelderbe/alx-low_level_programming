@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints the size of varios types
+ * main - Entry point
  *
  * Return: 0 if exited properly
  */
