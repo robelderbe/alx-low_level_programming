@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <float.h>
 
 /**
  * main - Entry point
@@ -10,8 +9,8 @@ int main(void)
 {
 	int a;
 	char c;
-	long log int b;
-	log int d;
+	long int d;
+	long long int b;
 	float f;
 
         printf("size of a char: %lu bytes(s)\n", (unsigned long)sizeof(c));
