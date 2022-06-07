@@ -1,1 +1,1 @@
-int_putcar(char c);
+int _putcar(char c);
