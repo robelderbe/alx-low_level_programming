@@ -3,6 +3,7 @@
 /**
  * main - prints the alphabet
  *
+ * Description: Prints the alphabet with _putchar
  * Return: void
  */
 
