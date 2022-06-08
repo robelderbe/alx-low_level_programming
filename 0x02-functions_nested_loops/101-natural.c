@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - natural numbers multiples of 3 or 5 to 1024
  *
  * Return: always 0
