@@ -4,7 +4,8 @@
  * main - prints the alphabet x10
  *
  * Description: Prints the alphabet with _putchar ten times
- * Return: void
+ * 
+ * Return: void 
  */
 
 
