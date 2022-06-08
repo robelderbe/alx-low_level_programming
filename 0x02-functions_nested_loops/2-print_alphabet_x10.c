@@ -1,15 +1,15 @@
- #include "main.h"                                           
+#include "main.h"
 
 /**
- * main - prints the alphabet x10
+ * print_alphabet_x10 - entry point
  *
  * Description: Prints the alphabet with _putchar ten times
- * 
- * Return: void 
+ *
+ * Return: void
  */
 
 
-void print_alphabet_x10(void)
+ void print_alphabet_x10(void)
 {
 	int j;
 	char a;
