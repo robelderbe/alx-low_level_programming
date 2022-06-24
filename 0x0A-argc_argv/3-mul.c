@@ -16,7 +16,7 @@ int _atoi(char *s)
 	len = 0;
 	f = 0;
 	digit = 0;
-	 
+
 	while (s[len] != '\0')
 		len++;
 
@@ -55,6 +55,7 @@ int _atoi(char *s)
 int main(int argc, char *argv[])
 {
 	int result, num1, num2;
+
 	if (argc < 3 || argc > 3)
 	{
 		printf("Error\n");
